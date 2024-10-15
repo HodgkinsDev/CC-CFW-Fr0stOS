@@ -1,0 +1,1 @@
+shell.run("boot/unbios.lua boot/bios.lua")

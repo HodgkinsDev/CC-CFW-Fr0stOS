@@ -1,0 +1,1 @@
+shell.run("wget runSilent https://raw.githubusercontent.com/HodgkinsDev/ComputerCraftStuff/refs/heads/main/update.lua")
