@@ -1,0 +1,16 @@
+accountmanager 0.1 Written by Jacob Hodgkins
+
+this program is added to the system programs and allows you to manage the account system
+
+Admins can:
+	Add Accounts
+	Remove Accounts
+	Change Account Username
+	Change Account Password
+	Change Account Permission
+	Get Specific Account Permissions
+	
+Users can:
+	Change Account Username
+	Change Account Password
+	Get Specific Account Permissions

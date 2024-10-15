@@ -1,0 +1,18 @@
+shortcut 0.1 Written by Jacob Hodgkins
+
+shortcut allows you to make shortcut files for any givin file or folder 
+
+Usage:shortcut <function> <shortcutfile/DIR location> <shortcutfile/DIR save location> <shortcut name>
+
+<function> 
+can either be "File" or "file" or "DIR" or "dir"
+
+<shortcutfile/DIR location> 
+if function is File or file then must be a path to the file you'd like to create a shortcut
+if function is DIR or dir then must be a path to the folder you'd like to create a shortcut to
+
+<shortcutfile/DIR save location>
+must be the directory you'd like to save the shortcut file to
+
+<shortcut name>
+must be the shortcut file name
